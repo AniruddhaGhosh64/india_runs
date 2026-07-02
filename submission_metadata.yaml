@@ -1,0 +1,13 @@
+team_name: ""
+members:
+  - name: ""
+    email: ""
+    role: ""
+  - name: ""
+    email: ""
+    role: ""
+github_url: "https://github.com/AniruddhaGhosh64/india_runs"
+demo_url: ""
+compute_environment: "Google Colab (CPU)"
+ai_tools_used: "None (Strictly deterministic rule-based scoring without LLMs or Hosted APIs)"
+methodology_summary: "A transparent, rule-based pipeline that extracts technical, career, and behavioral features. It employs a weighted composite scoring system to rank candidates deterministically against job requirements, complemented by an explainability engine for complete recruiter transparency."

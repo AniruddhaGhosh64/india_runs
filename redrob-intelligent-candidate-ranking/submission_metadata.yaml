@@ -1,0 +1,13 @@
+team_name: ""
+members:
+  - name: ""
+    email: ""
+    role: ""
+  - name: ""
+    email: ""
+    role: ""
+github_url: ""
+demo_url: ""
+compute_environment: "Google Colab (CPU)"
+ai_tools_used: "None (Deterministic approach)"
+methodology_summary: ""

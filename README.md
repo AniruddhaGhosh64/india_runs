@@ -98,18 +98,6 @@ The pipeline includes rigorous validation checks in Notebook 3. These diagnostic
    - Run `INDIA_Runs_2.ipynb` to observe the feature engineering and ranking engine development.
    - Run `INDIA_Runs_3.ipynb` to execute the production pipeline and generate the final outputs.
 
-# Sample Outputs
-*Screenshots of the outputs and ranking diagnostic charts.*
-
-![Architecture Overview](docs/images/architecture.png)
-*(Placeholder for Architecture Diagram)*
-
-![Workflow Overview](docs/images/workflow.png)
-*(Placeholder for Workflow Diagram)*
-
-![Results and Ranking](docs/images/results.png)
-*(Placeholder for Results)*
-
 # Future Improvements
 - Parameterized weighting via a unified configuration file to allow easy adjustments without modifying notebook code.
 - Extended unit testing for individual deterministic rules.
